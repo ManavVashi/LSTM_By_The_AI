@@ -2,7 +2,7 @@
 * I made basic LSTM model for understand the process of how can we use the LSTM model with our custom dataset.
 * I also tried it out with the Apple Share Stock Market Prediction dataset, yes at very basic level but It clears all the steps.
 * I explained steps where there is a need to explain and try to make the code as simple as possible
-
+#
 1. Basic LSTM
 * Notebook: LSTM_Next_Word_Predictor.ipynb
 
